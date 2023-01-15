@@ -1,0 +1,97 @@
+/* Write your code here. */
+
+.con {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+}
+.heading {
+  color: #0f172a;
+}
+.info {
+  padding: 15px;
+  margin-top: 10px;
+  background-color: #0b69ff;
+  display: flex;
+}
+.info-text {
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.info-icon {
+  color: #ffffff;
+  background-color: #0b69ff;
+  margin-top: 8px;
+  margin-left: 5px;
+  height: 15px;
+}
+
+.success {
+  padding: 15px;
+  margin-top: 10px;
+  background-color: #2dca73;
+  display: flex;
+}
+.success-text {
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.success-icon {
+  color: #ffffff;
+  background-color: #2dca73;
+  margin-top: 8px;
+  margin-left: 5px;
+}
+
+.warning {
+  padding: 15px;
+  margin-top: 10px;
+  background-color: #ffb800;
+  display: flex;
+}
+.warning-text {
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.warning-icon {
+  color: #ffffff;
+  background-color: #ffb800;
+  margin-top: 8px;
+  margin-left: 5px;
+}
+
+.error {
+  padding: 15px;
+  margin-top: 10px;
+  background-color: #ff0b37;
+  display: flex;
+}
+.error-text {
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.error-icon {
+  color: #ffffff;
+  background-color: #ff0b37;
+  margin-top: 8px;
+  margin-left: 5px;
+}
